@@ -31,7 +31,7 @@ createServer({
         },
         {
           id: 3,
-          title: 'Aluguel',
+          title: 'Rent payment',
           category: 'Withdraw',
           type: 'withdraw',
           amount: 1600,
